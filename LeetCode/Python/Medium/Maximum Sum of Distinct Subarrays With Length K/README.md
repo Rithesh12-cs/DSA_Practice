@@ -1,6 +1,6 @@
 # 📝 Maximum Sum of Distinct Subarrays With Length K (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/?envType=problem-list-v2&envId=sliding-window)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
