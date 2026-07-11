@@ -1,6 +1,6 @@
 # 📝 Max Consecutive Ones III (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/max-consecutive-ones-iii)
+🔗 [Problem Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
