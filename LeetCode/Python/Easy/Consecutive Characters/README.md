@@ -1,6 +1,6 @@
 # 📝 Consecutive Characters (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/consecutive-characters/)
+🔗 [Problem Link](https://leetcode.com/problems/consecutive-characters)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
