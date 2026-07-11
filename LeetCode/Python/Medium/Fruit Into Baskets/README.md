@@ -1,6 +1,6 @@
 # 📝 Fruit Into Baskets (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/fruit-into-baskets/)
+🔗 [Problem Link](https://leetcode.com/problems/fruit-into-baskets)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
