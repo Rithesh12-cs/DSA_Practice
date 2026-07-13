@@ -1,6 +1,6 @@
 # 📝 Longest Repeating Character Replacement (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/)
+🔗 [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Hash Table, String, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
