@@ -1,6 +1,6 @@
 # 📝 Maximum Number of Vowels in a Substring of Given Length (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
