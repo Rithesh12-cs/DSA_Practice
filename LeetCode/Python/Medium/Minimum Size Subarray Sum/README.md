@@ -1,6 +1,6 @@
 # 📝 Minimum Size Subarray Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, Binary Search, Sliding Window, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
