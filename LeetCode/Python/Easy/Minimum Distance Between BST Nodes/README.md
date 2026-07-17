@@ -1,6 +1,6 @@
 # 📝 Minimum Distance Between BST Nodes (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-distance-between-bst-nodes)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
