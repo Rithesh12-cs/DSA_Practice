@@ -1,9 +1,10 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        res = 0
-        for _ in range(32):
-            bit = n & 1
-            res = (res << 1) | bit
-            n >>= 1
-        return res
+        b=bin(n).replace('0b',"")
+        res=b.zfill(32)
+        n=list(res)
+        n=n[::-1]
+        re="".join(n)
+        ans=int(re,2)
+        return ans
         
