@@ -9,9 +9,9 @@ class Solution:
             if res==x:
                 return mid
             elif res < x:
-                l+=1
+                l=mid +1
             else:
-                r-=1
+                r=mid-1
         return r
 
 
