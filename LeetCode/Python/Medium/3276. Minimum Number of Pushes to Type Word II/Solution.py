@@ -6,10 +6,10 @@ class Solution:
             freq[i]=freq.get(i,0)+1
         
         freq_sort=sorted(freq.values(),reverse=True)
-        i=0
-        for cnt in freq_sort:
+        
+        for i,cnt in enumerate(freq_sort):
             push=(i//8)+1
             res +=push*cnt
-            i+=1
+        
         return res
         
